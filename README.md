@@ -47,9 +47,9 @@ Este script foi criado para realizar uma LIMPEZA COMPLETA nos notebooks dos alun
 🚀 COMO USAR
 -------------------------------
 
-1. Copie o arquivo `limpeza.exe` e o `README.txt` para um pendrive
+1. Copie o arquivo `script_limpeza_alunos.exe` e o `README.txt` para um pendrive
 2. Plugue o pendrive no notebook do aluno
-3. Clique com o botão direito no `limpeza.exe` e escolha **"Executar como administrador"**
+3. Clique com o botão direito no `script_limpeza_alunos.exe` e escolha **"Executar como administrador"**
 4. Aguarde o processo — ele mostrará tudo no console
 5. Ao final, o log será salvo automaticamente
 
