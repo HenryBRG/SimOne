@@ -1,0 +1,266 @@
+[14:15:16] 🚀 Iniciando limpeza...
+[14:15:17] 🧼 Limpando: C:\Users\Suporte\AppData\Local\Temp
+[14:15:17] 🧼 Limpando: C:\Windows\Temp
+[14:15:17] 🧼 Limpando: C:\Users\Suporte\Downloads
+[14:15:18] 📁 AppData apagado: Dados de Aplicativos
+[14:15:18] 📁 AppData apagado: Histórico
+[14:15:18] 📁 AppData apagado: Temporary Internet Files
+[14:15:18] 🧹 Apagado de Documents: Meus Vídeos
+[14:15:18] 🧹 Apagado de Documents: Minhas Imagens
+[14:15:18] 🧹 Apagado de Documents: Minhas Músicas
+[14:15:18] ⚠️ A conta Microsoft deve ser removida manualmente:
+[14:15:18]    Iniciar > Configurações > Contas > E-mail e contas
+[14:15:24] 📦 Tentando remover: McAfee
+[14:15:30] 📦 Tentando remover: WildTangent
+[14:15:36] 📦 Tentando remover: ByteFence
+[14:15:42] 📦 Tentando remover: Opera
+[14:15:48] 📦 Tentando remover: Avast
+[14:15:54] 📦 Tentando remover: AVG
+[14:15:54] ✅ LIMPEZA CONCLUÍDA!
+[08:14:21] 🚀 Iniciando limpeza...
+[08:14:22] 🧼 Limpando: C:\Users\Suporte\AppData\Local\Temp
+[08:14:22] 🧼 Limpando: C:\Windows\Temp
+[08:14:22] 🧼 Limpando: C:\Users\Suporte\Downloads
+[08:14:22] 📁 AppData apagado: Dados de Aplicativos
+[08:14:22] 📁 AppData apagado: Histórico
+[08:14:22] 📁 AppData apagado: Temporary Internet Files
+[08:14:22] 🧹 Apagado de Documents: Meus Vídeos
+[08:14:23] 🧹 Apagado de Documents: Minhas Imagens
+[08:14:23] 🧹 Apagado de Documents: Minhas Músicas
+[08:14:23] ⚠️ A conta Microsoft deve ser removida manualmente:
+[08:14:23]    Iniciar > Configurações > Contas > E-mail e contas
+[08:14:31] 📦 Tentando remover: McAfee
+[08:14:37] 📦 Tentando remover: WildTangent
+[08:14:42] 📦 Tentando remover: ByteFence
+[08:14:48] 📦 Tentando remover: Opera
+[08:14:53] 📦 Tentando remover: Avast
+[08:14:59] 📦 Tentando remover: AVG
+[08:14:59] ✅ LIMPEZA CONCLUÍDA!
+[08:35:54] 🚀 Iniciando limpeza...
+[08:46:47] 🚀 Iniciando limpeza...
+[08:46:48] 🧼 Limpando: C:\Windows\Temp
+[11:42:59] 
+✦✦✦ INICIANDO LIMPEZA ✦✦✦
+[11:43:00] ✧ Limpando Chrome
+[11:43:00] ✧ Limpando Edge
+[11:43:01] ✧ Limpando: C:\Users\Fundhas\AppData\Local\Temp
+[11:43:01] Erro: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\Fundhas\\AppData\\Local\\Temp\\df133273-1d12-4836-be4e-fad35226832a.tmp'
+[11:43:01] ✧ Limpando: C:\Windows\Temp
+[11:43:01] ✧ Limpando: C:\Users\Fundhas\Downloads
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyA_6A866F3B31.log
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyE2.log
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyE3.log
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyF1.log
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyL_202507.log
+[11:43:01] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Default\favorites_diagnostic.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-02-11.539.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-02-21.397.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-02-56.137.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-15-37.406.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-15-51.259.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-18-01.796.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-18-17.526.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-25-47.399.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-25-59.286.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-35-04.291.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-35-14.956.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-49-42.152.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-55-40.884.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-59-03.713.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-09-59-26.690.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-10-04-53.828.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-10-26-02.609.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-10-30-20.062.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-10-53-07.044.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-11-26-37.499.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Windows\WebCache\V01000FE.log
+[11:43:02] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Uninstall-PerUser_2025-07-15_131423_7948-11524.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_110623_14016-14048.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_120219_12888-13664.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_121548_7276-10692.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_121815_16024-13012.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_122557_16936-16700.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_123512_14224-14228.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_125538_13696-13700.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_125925_8628-9780.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_130126_2484-1436.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-07-15_131200_13628-13632.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error1.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error2.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error3.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error4.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error5.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error6.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edbtmp.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\CER\upi.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\AdskAccessUI.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\adupdatechecker.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\ui-launcher.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\ACA__MEP_2024_Object_Enabler\acaoe_2024_8.6.48.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_2024\acad_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_Activity_Insights_1.0\dwggraph_1.0_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_BlockIndexer_2024\blockreplace_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_Shared_2024\acadshared_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_AutoCAD_2024_-_English\acadlp_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_AutoCAD_Shared_2024_-_English\acadsharedlp_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_4_2024\MaterialLibrary4_2024_4.0.0.7_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_Base_Resolution_Image_Library_4_2024\BaseImageLibrary4_2024_4.0.0.7_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_Low_Resolution_Image_Library_4_2024\LowImageLibrary4_2024_4.0.0.7_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\DWG_TrueView_2024_-_English\dwgviewr_2024_24.3.61.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Geospatial_Coordinate_Systems_2024\spatialreference_2024_14.10.60.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Inventor_Electrical_Catalog_Browser_2024\AceInvAddIn_2024_21.0.51.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Inventor_Electrical_Catalog_Browser_2024_Language_Pack_-_English\AceInvAddInLP_2024_21.0.51.0_uninstall.log
+[11:43:03] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\RealDWG_Shared_2024\realdwgshared_2024_24.3.57.0_uninstall.log
+[11:43:03] ✧ AppData apagado: Dados de Aplicativos
+[11:43:03] ✧ AppData apagado: Histórico
+[11:43:03] ✧ AppData apagado: Temporary Internet Files
+[11:43:03] ✧ Apagado de Documents: Meus Vídeos
+[11:43:03] ✧ Apagado de Documents: Minhas Imagens
+[11:43:03] ✧ Apagado de Documents: Minhas Músicas
+[11:43:03] ✧ Apagado de Pictures: desktop.ini
+[11:43:03] ✧ Apagado de Pictures: Screenshots
+[11:43:03] ✧ Apagado de Videos: Captures
+[11:43:03] ✧ Arquivo apagado: anderson.pdf
+[11:43:03] ✧ Pasta apagada: Atalhos Permitidos
+[11:43:03] ✧ Arquivo apagado: Atv 5 - Miguel C. Simões - Formatado.pdf
+[11:43:03] ✧ Arquivo apagado: Atv 5 - Miguel C. Simões.xlsx
+[11:43:03] ✧ Arquivo apagado: Captura de tela 2025-04-09 190628.png
+[11:43:03] ✧ Arquivo apagado: Captura de tela 2025-04-09 192524.png
+[11:43:03] ✧ Arquivo apagado: como-atuar-em-administracao-publica.jpg (1).webp
+[11:43:03] ✧ Arquivo apagado: desktop.ini
+[11:43:03] ✧ Arquivo apagado: elevar_fundhas.cmd
+[11:43:03] ✧ Arquivo apagado: Figura-21-Fluxograma-esquematico-do-processamento-e-das-etapas-de-refino-do-aco-nas.jpg
+[11:43:03] ✧ Arquivo apagado: html.txt
+[11:43:03] ✧ Pasta apagada: Nova pasta
+[11:43:03] ✧ Arquivo apagado: PESQUISA DE SATISFAÇÃO EL 01 - T.63.pdf
+[11:43:03] ✧ Arquivo apagado: PESQUISA DISCENTE 16Maio25.pdf
+[11:43:03] ✧ Arquivo apagado: Pilares-da-administração (1).webp
+[11:43:03] ✧ Arquivo apagado: rebaixar_fundhas.cmd
+[11:43:03] ✧ Arquivo apagado: remover_conta.ps1
+[11:43:03] ✧ Arquivo apagado: Rodolfo José Trigueiro - n° 33 - Técnico em Edificações.pdf
+[11:43:03] ✧ Arquivo apagado: script.txt
+[11:43:03] ✧ Arquivo apagado: Seu Chrome - Chrome.lnk
+[11:43:10] ✧ Tentando remover: McAfee
+[11:43:16] ✧ Tentando remover: WildTangent
+[11:43:21] ✧ Tentando remover: ByteFence
+[11:43:27] ✧ Tentando remover: Opera
+[11:43:32] ✧ Tentando remover: Avast
+[11:43:38] ✧ Tentando remover: AVG
+[11:43:38] 
+✅ LIMPEZA CONCLUÍDA!
+[12:03:47] 
+✦✦✦ INICIANDO LIMPEZA ✦✦✦
+[12:03:47] ✧ Limpando Chrome
+[12:03:47] ✧ Limpando Edge
+[12:03:47] ✧ Limpando: C:\Users\Fundhas\AppData\Local\Temp
+[12:03:47] Erro: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\Fundhas\\AppData\\Local\\Temp\\387087da-6d43-41fe-86d7-cae28e8d1be6.tmp'
+[12:03:47] ✧ Limpando: C:\Windows\Temp
+[12:03:47] ✧ Limpando: C:\Users\Fundhas\Downloads
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\favorites_diagnostic.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\Extension State\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\Session Storage\000007.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\shared_proto_db\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\Site Characteristics Database\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\Sync Data\LevelDB\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\shared_proto_db\metadata\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\Local Storage\leveldb\000006.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\WebView2\EBWebView\Default\IndexedDB\https_ms-pbi.pbi.microsoft.com_0.indexeddb.leveldb\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\Microsoft\Power BI Desktop Store App\Traces\Performance\PBIDesktop.1748.2025-07-15T14-59-41-559385.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\LibreOffice\4\cache\skia.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\FreeCAD\webdata\persistent\Platform Notifications\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\FreeCAD\webdata\persistent\Session Storage\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\FreeCAD\webdata\persistent\Local Storage\leveldb\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\favorites_diagnostic.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Extension State\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Session Storage\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\shared_proto_db\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Site Characteristics Database\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Sync Data\LevelDB\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\shared_proto_db\metadata\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Service Worker\Database\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Roaming\Autodesk\AutoCAD 2024\R24.3\enu\.WebView2\1\EBWebView\Default\Local Storage\leveldb\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyA_6A866F3B31.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyE2.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyE3.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyF1.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\VirtualStore\Program Files (x86)\EasyInventory\easyL_202507.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Default\favorites_diagnostic.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGetCOM-2025-07-15-11-45-23.854.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Windows\WebCache\V01000FF.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error1.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error2.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error3.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\ECSQLEXPRESS\error4.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\CER\upi.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\AdlSdk-16816.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\AdlSdk-2948.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\agent-stderr-16816.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\agent-stderr-2948.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\agent-stdout-16816.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Logs\agent-stdout-2948.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\AdskAccessUI.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\adupdatechecker.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\ui-launcher.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\ACA__MEP_2024_Object_Enabler\acaoe_2024_8.6.48.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_2024\acad_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_Activity_Insights_1.0\dwggraph_1.0_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_BlockIndexer_2024\blockreplace_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\AutoCAD_Shared_2024\acadshared_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_AutoCAD_2024_-_English\acadlp_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_AutoCAD_Shared_2024_-_English\acadsharedlp_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_4_2024\MaterialLibrary4_2024_4.0.0.7_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_Base_Resolution_Image_Library_4_2024\BaseImageLibrary4_2024_4.0.0.7_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Autodesk_Material_Library_Low_Resolution_Image_Library_4_2024\LowImageLibrary4_2024_4.0.0.7_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\DWG_TrueView_2024_-_English\dwgviewr_2024_24.3.61.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Geospatial_Coordinate_Systems_2024\spatialreference_2024_14.10.60.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Inventor_Electrical_Catalog_Browser_2024\AceInvAddIn_2024_21.0.51.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\Inventor_Electrical_Catalog_Browser_2024_Language_Pack_-_English\AceInvAddInLP_2024_21.0.51.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\ODIS\IHT\RealDWG_Shared_2024\realdwgshared_2024_24.3.57.0_uninstall.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\ENU\InfoCenter.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\Logs\AutodeskInventor2024License11.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\favorites_diagnostic.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\Extension State\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\Session Storage\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\shared_proto_db\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\Site Characteristics Database\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\Sync Data\LevelDB\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\shared_proto_db\metadata\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Inventor 2024\WebBrowser\Cache\EBWebView\Default\Local Storage\leveldb\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\Autodesk Collaboration\Logs\Collaboration.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AutoCAD 2024\R24.3\enu\InfoCenter.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\favorites_diagnostic.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\Extension State\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\Session Storage\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\shared_proto_db\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\Site Characteristics Database\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\Sync Data\LevelDB\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\shared_proto_db\metadata\000003.log
+[12:03:48] ✧ Arquivo lixo removido: C:\Users\Fundhas\AppData\Local\Autodesk\AdskLicensingAgent\EBWebView\Default\Local Storage\leveldb\000003.log
+[12:03:49] ✧ AppData apagado: Autodesk,_Inc
+[12:03:49] ✧ AppData apagado: cache
+[12:03:49] ✧ AppData apagado: Dados de Aplicativos
+[12:03:49] ✧ AppData apagado: Histórico
+[12:03:49] ✧ AppData apagado: Temporary Internet Files
+[12:03:49] ✧ Apagado de Documents: FluidSIM Hydraulics
+[12:03:49] ✧ Apagado de Documents: FluidSIM Pneumatics
+[12:03:49] ✧ Apagado de Documents: Hexagon
+[12:03:49] ✧ Apagado de Documents: Inventor
+[12:03:49] ✧ Apagado de Documents: Meus Vídeos
+[12:03:49] ✧ Apagado de Documents: Minhas Imagens
+[12:03:49] ✧ Apagado de Documents: Minhas Músicas
+[12:03:49] ✧ Apagado de Pictures: desktop.ini
+[12:03:49] ✧ Apagado de Pictures: Screenshots
+[12:03:49] ✧ Apagado de Videos: Captures
+[12:03:49] ✧ Pasta apagada: Atalhos Permitidos
+[12:03:56] ✧ Tentando remover: McAfee
+[12:04:02] ✧ Tentando remover: WildTangent
+[12:04:07] ✧ Tentando remover: ByteFence
+[12:04:13] ✧ Tentando remover: Opera
+[12:04:19] ✧ Tentando remover: Avast
+[12:04:24] ✧ Tentando remover: AVG
+[12:04:24] 
+✅ LIMPEZA CONCLUÍDA!

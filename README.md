@@ -1,78 +1,154 @@
-# SimOne
+# 🧹 SimOne — Script de Limpeza Avançada (Versão Final)
 
+---
 
+## 📌 OBJETIVO
 
-🧹 SCRIPT DE LIMPEZA
+O **SimOne** é um script criado para **limpar completamente os notebooks dos alunos** da escola técnica, de forma rápida e automatizada, diretamente de um pendrive.  
+Ele **remove arquivos inúteis**, **desinstala programas desnecessários**, **desloga contas**, **organiza a área de trabalho** e **restaura o ambiente limpo para o próximo aluno**.
 
+---
 
+## ✅ O QUE O SCRIPT FAZ
 
-📌 OBJETIVO:
------------------------------------
-Este script foi criado para realizar uma LIMPEZA COMPLETA nos notebooks dos alunos de forma rápida e automatizada, direto de um pendrive. Ele remove contas logadas em navegadores, apaga arquivos inúteis e desinstala programas desnecessários.
+### 1. Fecha Navegadores:
+- Chrome  
+- Edge  
+- Firefox  
 
+---
 
--------------------------------
-✅ O QUE O SCRIPT FAZ
--------------------------------
+### 2. Remove Perfis de Navegadores:
+- Apaga dados de usuário (cookies, histórico, senhas, cache)
+- **Remove contas logadas** nos navegadores
 
-1. FECHA NAVEGADORES:
-   - Chrome
-   - Edge
-   - Firefox
+---
 
-2. REMOVE PERFIS DE USUÁRIO DOS NAVEGADORES:
-   - Apaga dados salvos, histórico, extensões e CONTA LOGADA
+### 3. Limpa Pastas Temporárias:
+- `C:\\Users\\Fundhas\\AppData\\Local\\Temp`  
+- `C:\\Windows\\Temp`  
+- `C:\\Users\\Fundhas\\Downloads`  
 
-3. LIMPA PASTAS TEMPORÁRIAS:
-   - C:\Users\[usuário]\AppData\Local\Temp
-   - C:\Windows\Temp
-   - C:\Users\[usuário]\Downloads
+---
 
-4. REMOVE ARQUIVOS INÚTEIS:
-   - Arquivos com extensões: `.tmp`, `.log`, `.bak`
+### 4. Apaga Arquivos Inúteis:
+- Arquivos com extensões `.tmp`, `.log`, `.bak`  
+- Busca recursivamente dentro da pasta `C:\\Users\\Fundhas`
 
-5. DESINSTALA PROGRAMAS DESNECESSÁRIOS:
-   - McAfee
-   - WildTangent
-   - ByteFence
-   - Opera
-   - Avast
-   - AVG
+---
 
-6. GERA UM ARQUIVO DE LOG:
-   - `log_limpeza.txt` (no mesmo local do executável)
-   - Mostra tudo o que foi feito, com horário
+### 5. Remove Pastas Desconhecidas de `AppData\\Local`:
+- Apaga todas as pastas **exceto** uma lista segura com 22 pastas essenciais  
+  (ex: `Microsoft`, `Google`, `Lenovo`, `Packages`, etc.)
 
--------------------------------
-🚀 COMO USAR
--------------------------------
+---
 
-1. Copie o arquivo `limpeza.exe` e o `README.txt` para um pendrive
-2. Plugue o pendrive no notebook do aluno
-3. Clique com o botão direito no `limpeza.exe` e escolha **"Executar como administrador"**
-4. Aguarde o processo — ele mostrará tudo no console
-5. Ao final, o log será salvo automaticamente
+### 6. Limpa Diretórios Pessoais:
+- Apaga todos os arquivos das pastas:
+  - `Documentos`  
+  - `Imagens`  
+  - `Vídeos`  
 
-⚠️ IMPORTANTE:
-- O script só funciona com permissão de administrador
-- Não precisa instalar nada (é um arquivo `.exe`)
-- Os navegadores serão reiniciados e saem das contas logadas
+---
 
--------------------------------
-📝 LOG DE AÇÕES (EXEMPLO)
--------------------------------
+### 7. Limpa e Organiza a Área de Trabalho:
+- Remove **todos os arquivos** da Área de Trabalho  
+- Mantém apenas os **atalhos autorizados**, como:
+  - Lixeira  
+  - Scratch 3  
+  - VLC  
+  - AutoCAD 2024  
+  - LibreOffice  
+  - Microsoft Edge  
+  - etc.  
+- Reorganiza os atalhos restantes automaticamente
+
+---
+
+### 8. Remove Programas Indesejados:
+- Tenta desinstalar automaticamente:
+  - McAfee  
+  - WildTangent  
+  - ByteFence  
+  - Opera  
+  - Avast  
+  - AVG  
+
+---
+
+### 9. Gera Log de Limpeza:
+- `log_limpeza.txt` salvo ao lado do executável  
+- Mostra cada ação com horário e status
+
+---
+
+## ⚙️ PROCEDIMENTO PARA REMOVER CONTA MICROSOFT
+
+A remoção da conta Microsoft conectada **não é automática** (por limitações do sistema).  
+Por isso, um processo **manual e controlado** é utilizado:
+
+### Scripts envolvidos:
+- `elevar_fundhas.bat`: Torna o usuário `Fundhas` administrador temporariamente  
+- `rebaixar_fundhas.bat`: Retorna o `Fundhas` para conta padrão
+
+### Etapas manuais:
+
+1. No usuário **Fundhas**, execute `elevar_fundhas.bat`  
+2. O script faz o logout da conta, logo após entre novamente em **Fundhas**.
+3. Agora com acesso total às configurações:
+   - Vá em: ⚙️ Configurações > Contas > E-mail e contas  
+   - Remova a conta Microsoft vinculada  
+4. Depois, execute `rebaixar_fundhas.bat`  
+   - Isso impede que o aluno continue com privilégios de administrador  
+
+---
+
+## 🧪 COMO USAR
+
+1. Copie os arquivos abaixo para um pendrive:
+   - `script_limpeza_alunos.exe`  
+   - `elevar_fundhas.bat`  
+   - `rebaixar_fundhas.bat`   
+2. No notebook do aluno:
+   - Execute `elevar_fundhas.bat` pelo **usuário Fundhas**
+   - Reinicie e entre no **usuário Fundhas**
+3. Remova a conta Microsoft (se existir)
+4. Execute `script_limpeza_alunos.exe` como administrador
+5. Ao final, execute `rebaixar_fundhas.bat`
+6. Pronto! Máquina limpa e segura para o próximo uso
+
+---
+
+## 📝 EXEMPLO DE LOG
 
 [10:15:32] 🧹 INÍCIO DA LIMPEZA
 [10:15:34] 🧽 Limpando perfis do Chrome
 [10:15:35] ✅ Perfis do Chrome removidos com sucesso.
-[10:15:36] 🧽 Limpando perfis do Edge
-[10:15:37] ✅ Perfis do Edge removidos com sucesso.
-[10:15:38] 🧽 Limpando perfis do Firefox
-[10:15:39] ✅ Perfis do Firefox removidos com sucesso.
-[10:15:40] 🧼 Limpando: C:\Users\Aluno\AppData\Local\Temp
-[10:15:42] 🧼 Limpando: C:\Windows\Temp
-[10:15:44] 🧼 Limpando: C:\Users\Aluno\Downloads
-[10:15:46] 🗑️ Removido: C:\Users\Aluno\arquivo1.tmp
-[10:15:47] 📦 Tentando remover: McAfee
-[10:15:48] 📦 Tentando remover: Avast
-[10:15:49] ✅ LIMPEZA FINALIZADA!
+[10:15:40] 🧼 Limpando: C:\Users\Fundhas\AppData\Local\Temp
+[10:15:44] 🧼 Limpando: C:\Windows\Temp
+[10:15:47] 🧼 Limpando: C:\Users\Fundhas\Downloads
+[10:15:50] 🗑️ Arquivo removido: C:\Users\Fundhas\arquivo1.tmp
+[10:15:53] 🧹 Limpando AppData\Local
+[10:15:55] 🧹 Removendo atalho: Discord.lnk
+[10:15:58] 📦 Tentando remover: Avast
+[10:16:00] ✅ LIMPEZA FINALIZADA!
+
+yaml
+Mostrar sempre detalhes
+
+Copiar
+
+---
+
+
+## 🛡️ IMPORTANTE
+
+- Script exige permissão de administrador  
+- Ideal para rodar direto do pendrive  
+- **Não requer instalação** nem internet
+
+---
+
+
+📦 Feito por **Gustavo Henrique Braga**  
+🎓 Projeto aplicado para suporte técnico em ambiente escolar 

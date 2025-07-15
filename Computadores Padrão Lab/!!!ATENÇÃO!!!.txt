@@ -1,0 +1,63 @@
+RELATÓRIO DE OPERAÇÃO - SCRIPT DE LIMPEZA AUTOMÁTICA
+----------------------------------------------------
+
+Objetivo:
+---------
+Realizar a manutenção básica e segura dos notebooks dos alunos,
+através de um utilitário portátil (executável) que roda diretamente
+de um pendrive, com permissões de administrador.
+
+AÇÕES EXECUTADAS PELO SCRIPT:
+-----------------------------
+
+1. FECHAMENTO FORÇADO DE NAVEGADORES
+   - Chrome (chrome.exe)
+   - Edge (msedge.exe)
+   - Firefox (firefox.exe)
+
+2. LIMPEZA DE DADOS DOS NAVEGADORES (perfil principal)
+   - Remoção de cache, cookies, histórico e sessões salvas
+   - Desconexão de contas logadas automaticamente
+   - Caminhos afetados:
+     • %LOCALAPPDATA%\Google\Chrome\User Data\Default
+     • %LOCALAPPDATA%\Microsoft\Edge\User Data\Default
+     • %APPDATA%\Mozilla\Firefox\Profiles\*
+
+3. LIMPEZA DE ARQUIVOS TEMPORÁRIOS
+   - Pastas apagadas:
+     • %LOCALAPPDATA%\Temp
+     • C:\Windows\Temp
+
+4. LIMPEZA DA PASTA DE DOWNLOADS
+   - Todos os arquivos em:
+     • C:\Users\<nome_do_usuário>\Downloads
+
+5. REMOÇÃO DE ARQUIVOS DESNECESSÁRIOS
+   - Arquivos com extensão:
+     • *.tmp, *.log, *.bak
+   - Local de busca:
+     • C:\Users\<nome_do_usuário>\ (recursivamente)
+
+6. REMOÇÃO OPCIONAL DE PROGRAMAS INDESEJADOS (BLOATWARE)
+   - Tentativa de desinstalar, se presentes:
+     • McAfee
+     • WildTangent
+     • ByteFence
+     • Avast / AVG
+     • Opera
+
+7. GERAÇÃO DE LOG DE ATIVIDADE
+   - Arquivo: log_limpeza.txt
+   - Local: mesma pasta do executável (no pendrive)
+   - Conteúdo: registros com data/hora do que foi removido ou executado
+
+SEGURANÇA:
+----------
+- O script **não apaga nem move arquivos do pendrive**
+- Todas as operações são feitas em pastas do sistema ou perfil do usuário
+- O executável verifica se está sendo rodado como Administrador
+- Comportamento pode ser ajustado conforme necessidade (ex: manter Downloads)
+
+Versão do Script: 1.0
+Autor: Gustavo Henrique Braga
+Data da geração: 10/07/2025
